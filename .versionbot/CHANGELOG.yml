@@ -1,4 +1,17 @@
 - commits:
+    - subject: Refactor extra_uEnv backend to match with more devices
+      hash: d4a1ef3741075c04ebb82ae9d5e76d4c5570ac2d
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Miguel Casqueira <miguel@balena.io>
+        signed-off-by: Miguel Casqueira <miguel@balena.io>
+      author: Miguel Casqueira
+      nested: []
+  version: 11.11.8
+  date: 2020-08-04T20:50:50.900Z
+- commits:
     - subject: Bump elliptic from 6.5.2 to 6.5.3
       hash: c11004cd24fe66e6af7f16a79c0cc9e8847eb415
       body: >
