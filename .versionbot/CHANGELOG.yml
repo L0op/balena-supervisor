@@ -1,4 +1,27 @@
 - commits:
+    - subject: 'device-state: Convert to a singleton'
+      hash: 2460863b2cc7c81c275a31cc44343c91f6f913db
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Rich Bayliss
+      nested: []
+    - subject: 'api-binder: Convert to a singleton'
+      hash: 92c37c55d5fb1ea43d0fab7659e99e7e0bc55edf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Rich Bayliss
+      nested: []
+  version: 11.12.5
+  date: 2020-08-13T15:32:41.309Z
+- commits:
     - subject: 'bug: Firewall not blocking supervisor access from outside the device'
       hash: 5aecd94e243ee55cffbb9aa47e7adfc437401de3
       body: ''
